@@ -1,5 +1,5 @@
 ## Dream start from here
-Hello My firend!👋
+Hello My friend!👋
 
 These things is about me.
 Well,the code study is a long & boring road,but if u keep it, you'll success.
@@ -14,7 +14,7 @@ Well,the code study is a long & boring road,but if u keep it, you'll success.
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 
 ### Studying
-Study is a long road in life.Comon',let's gooooo!
+> Study is a long road in life.Comon,let's gooooo!
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
